@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lblSize">18sp</dimen>
+    <dimen name="marginTop">33dp</dimen>
+    <dimen name="btnSize">150dp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="lblBMICalculator">BMI Calculator</string>
+    <string name="BMIImage">Empty BMI</string>
+    <string name="BMIResult">BMI Result : </string>
+    <string name="lblHeight">Height (Meter) :</string>
+    <string name="lblWeight">Weight (KG) :</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnReset">Reset</string>
+    <string name="inKGhint">in KG</string>
+    <string name="inMeterHint">in Meter</string>
+</resources>
